@@ -1,1 +1,1 @@
-console.log("change version sync")
+console.log("ssh")
